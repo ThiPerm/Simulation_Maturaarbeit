@@ -1,1 +1,1 @@
-# In diesem Ordner sind alle wichtigen Dateien meiner Maturaarbeit zu finden. 
+# In diesem Ordner sind Dateien zu meiner Maturaarbeit über die Flugbahn eines Tennisballes.
