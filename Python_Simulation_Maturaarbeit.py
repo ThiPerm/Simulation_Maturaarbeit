@@ -215,7 +215,6 @@ ang_vel_2d = np.array([
 init_position_b = [-11.88, 0, 0.55]
 init_velocity_b = [14.04, 0, 9.61]
 ang_velocity_b = [0, 0, 0]
-x_target_b = 9.765  # erzieltes X (durch Messung / Video)
 
 # Allgemeine Startkonditionen
 time_step = 0.001
