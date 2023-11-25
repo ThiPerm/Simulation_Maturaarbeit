@@ -224,7 +224,6 @@ cW = 0.472
 magnus_coefficient = 1
 
 positions, velocities, times, x, y, z = results()
-np.savetxt("Positions.txt", positions)
 #results_arr()  # erstellte zwei dokumente mit den Endpositionen und den Endzeiten
 
 
