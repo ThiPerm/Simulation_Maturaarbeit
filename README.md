@@ -1,1 +1,1 @@
-# In diesem Ordner sind Dateien zu meiner Maturaarbeit über die Flugbahn eines Tennisballes.
+# In diesem Ordner sind Dateien zu meiner Maturaarbeit über die Flugbahn eines Tennisballes zu finden.
